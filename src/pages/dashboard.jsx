@@ -16,18 +16,12 @@ import Typography from '@mui/material/Typography';
 
 const drawerWidth = 240;
 
-
-
-
-
-
 export default function Dashboard() {
 
   return (
     <>
       <div className="products" >
                   
-               
         <DashBar/>
         <Box height={70}/>
         <Box sx={{ flexGrow: 1 }}>
