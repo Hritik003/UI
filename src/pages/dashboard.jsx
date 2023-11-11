@@ -14,7 +14,7 @@ import Typography from '@mui/material/Typography';
 
 
 
-const drawerWidth = 240;
+const drawerWidth = 240; 
 
 export default function Dashboard() {
 
